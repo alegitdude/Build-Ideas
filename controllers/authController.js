@@ -31,7 +31,7 @@ const register = async (req, res) => {
     verificationToken,
   });
 
-  const origin = "http://localhost:5173";
+  const origin = "https://ideas-site.onrender.com";
 
   await sendVerificationEmail({
     name: user.name,
