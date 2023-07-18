@@ -32,7 +32,6 @@
   <p align="center">
     A site designed to allow users to submit and upvote ideas for my next website build. Features real-time user submissions and ability to up/down vote any idea to rank them. 
     <br />
-    <a href="https://github.com/alegitdude/Build-Ideas"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://ducks-row.onrender.com">View Demo</a>
@@ -63,7 +62,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -124,20 +122,6 @@ To get a local copy up and running follow these simple example steps.
 
 You'll need to set up your own mongodb to communicate with. In the .env file create an enviroment variable with the connection string to your database. 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
