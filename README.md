@@ -124,7 +124,6 @@ To get a local copy up and running follow these simple example steps.
 
 You'll need to set up your own mongodb to communicate with. In the .env file create an enviroment variable with the connection string to your database. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
