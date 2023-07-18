@@ -16,7 +16,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -32,6 +32,8 @@
   <p align="center">
     A site designed to allow users to submit and upvote ideas for my next website build. Features real-time user submissions and ability to up/down vote any idea to rank them. 
     <br />
+    <br/>
+    <a href=href="https://Build-Ideas.onrender.com">https://Build-Ideas.onrender.com</a>
     <br />
     <br />
     <a href="https://Build-Ideas.onrender.com">View Demo</a>
@@ -164,8 +166,6 @@ Project Link: [https://github.com/github_alegitdude/Build-Ideas](https://github.
 [issues-url]: https://github.com/alegitdude/Build-Ideas/issues
 [license-shield]: https://img.shields.io/github/license/alegitdude/Build-Ideas.svg?style=for-the-badge
 [license-url]: https://github.com/alegitdude/Build-Ideas/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/rick-hughey-6b4994275
 [product-screenshot]: /client/public/Ideas-Site%20Screenshot.png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
