@@ -33,7 +33,7 @@
     A site designed to allow users to submit and upvote ideas for my next website build. Features real-time user submissions and ability to up/down vote any idea to rank them. 
     <br />
     <br/>
-    <a href=href="https://Build-Ideas.onrender.com">https://Build-Ideas.onrender.com</a>
+    <a href="https://Build-Ideas.onrender.com">https://Build-Ideas.onrender.com</a>
     <br />
     <br />
     <a href="https://Build-Ideas.onrender.com">View Demo</a>
