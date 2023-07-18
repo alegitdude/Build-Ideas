@@ -166,7 +166,7 @@ Project Link: [https://github.com/github_alegitdude/Build-Ideas](https://github.
 [license-url]: https://github.com/alegitdude/Build-Ideas/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/rick-hughey-6b4994275
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /client/public/Ideas-Site%20Screenshot.png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
