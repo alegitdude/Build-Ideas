@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alegitdude/Build-Ideas">
-    <img src="images/Logo.png" alt="Logo" width="80" height="80">
+    <img src="/client/public/android-chrome-192x192.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
